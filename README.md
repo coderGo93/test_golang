@@ -9,7 +9,7 @@ This project has many features such as:
 - Response, to generate look like error with json format, i.e. {"error":"something bad happened"}
 - http methods (GET, POST, PUT, DELETE)
 
-# Instalattion
+# Installation
 To make it work:
   - Go installed
   - Once go is installed, please write this command go get
