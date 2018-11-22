@@ -12,7 +12,7 @@ This project has many features such as:
 # Installation
 To make it work:
   - Go installed
-  - Once go is installed, please write this command go get
+  - Once go is installed, please write this command go get to install drivers/plugins necessary
   - After this, run it with command go run main.go or generate build with go build main.go and then execute the file binary main
  ```sh
 $ go run main.go
