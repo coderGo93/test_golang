@@ -18,3 +18,7 @@ To make it work:
 $ go run main.go
 $ go build main.go
 ```
+# TODO
+- Create tokens with jwt
+- Validate session and then save tokens
+- Generate logs
